@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Environment files
+.env
+*.env
+
+# Python virtual environment folders
+env/
+venv/
+.venv/
+
+# PyTorch model checkpoints
+*.pth
+*.pt
+
+# Log files
+*.log
+
+# Jupyter Notebook output cells (if exported)
+*.nbconvert.ipynb
+
+
